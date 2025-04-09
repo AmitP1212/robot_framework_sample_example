@@ -1,1 +1,0 @@
-# robot_framework_sample_example

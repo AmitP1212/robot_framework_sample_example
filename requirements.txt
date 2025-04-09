@@ -1,0 +1,12 @@
+# Python libraries
+pandas
+openpyxl
+tabulate
+python-dotenv
+
+# Robot Libraries
+robotframework
+robotframework-requests
+robotframework-seleniumlibrary
+robotframework-seleniumtestability
+robotframework-sshlibrary
